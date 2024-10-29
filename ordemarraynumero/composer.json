@@ -1,0 +1,9 @@
+{
+    "name": "ryanvictor/ordemarraynumero",
+    "autoload": {
+        "psr-4": {
+            "Ryanvictor\\Ordemarraynumero\\": "src/"
+        }
+    },
+    "require": {}
+}

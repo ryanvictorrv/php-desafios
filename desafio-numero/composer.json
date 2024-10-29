@@ -1,0 +1,15 @@
+{
+    "name": "ryanvictor/desafio-numero",
+    "autoload": {
+        "psr-4": {
+            "Ryanvictor\\DesafioNumero\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Victor",
+            "email": "ryan.sysdelta@gmail.com"
+        }
+    ],
+    "require": {}
+}
