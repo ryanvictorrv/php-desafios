@@ -1,0 +1,15 @@
+{
+    "name": "ryanvictor/hallmonitor",
+    "autoload": {
+        "psr-4": {
+            "Ryanvictor\\Hallmonitor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ryan",
+            "email": "ryan.sysdelta@gmail.com"
+        }
+    ],
+    "require": {}
+}
